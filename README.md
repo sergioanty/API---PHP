@@ -40,8 +40,11 @@ CREATE TABLE tasks (
 Настройте подключение к БД в файле db.php
 
 $host = "localhost";   // адрес сервера
+
 $user = "root";        // XAMPP
+
 $pass = "";            // пароль
+
 $db   = "api";    // название базы данных
 
 -/-/-/-/-/-/-
