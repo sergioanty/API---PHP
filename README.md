@@ -27,7 +27,6 @@ API---PHP
 Создайте базу данных в MySQL через phpMyAdmin
 
 CREATE DATABASE api;
-USE api;
 
 CREATE TABLE tasks (
     id INT AUTO_INCREMENT PRIMARY KEY,
