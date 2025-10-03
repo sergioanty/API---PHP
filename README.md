@@ -20,7 +20,7 @@ API---PHP
 
 Склонируйте репозиторий в папку "htdocs" (XAMPP)
 
-git clone
+[git clone](https://github.com/sergioanty/API---PHP.git)
 
 -/-/-/-/-/-
 
